@@ -3,6 +3,8 @@
 ###Description
 This is the code repository for the blog post on Caching in April 2016.
 
+http://blog.wakeskaterstudio.com/2016/04/introduction-to-caching-in-javascript.html
+
 ###Requirements
 * NodeJS
 * NPM
