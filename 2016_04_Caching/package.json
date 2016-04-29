@@ -1,0 +1,22 @@
+{
+  "name": "caching",
+  "version": "0.0.0",
+  "description": "Code for Blog Post for April 2016 on Caching",
+  "main": "nocache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WakeskaterX/Blog_April16_Caching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WakeskaterX/Blog_April16_Caching/issues"
+  },
+  "homepage": "https://github.com/WakeskaterX/Blog_April16_Caching",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
